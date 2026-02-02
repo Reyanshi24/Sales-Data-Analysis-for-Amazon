@@ -106,12 +106,12 @@ The analysis highlights that focusing on the 'Technology' category and the 'Cons
 
 ## Dashboard Screenshots
 
+<img width="1262" height="709" alt="image" src="https://github.com/user-attachments/assets/e3b552e4-6368-477c-912d-72b52ac814b6" />
+
 <img width="1267" height="719" alt="image" src="https://github.com/user-attachments/assets/1647f4af-b41b-4d03-8ca5-16f848f61f1c" />
 
 <img width="1269" height="707" alt="image" src="https://github.com/user-attachments/assets/b375132a-d72f-4ed1-84ad-70a9ecc4ad75" />
 
 <img width="1264" height="710" alt="image" src="https://github.com/user-attachments/assets/15ffaa5f-c494-4521-95ab-8814f799ceae" />
-
-<img width="1262" height="709" alt="image" src="https://github.com/user-attachments/assets/e3b552e4-6368-477c-912d-72b52ac814b6" />
 
 ---
