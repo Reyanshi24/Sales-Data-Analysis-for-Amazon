@@ -1,1 +1,1 @@
-# Sales-Data-Analysis-for-Amazon
+# Sales Data Analysis for Amazon
