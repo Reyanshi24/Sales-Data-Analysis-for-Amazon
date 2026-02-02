@@ -4,6 +4,7 @@
 This project provides a comprehensive analysis of Amazon's sales performance using a dataset of over 9,000 transactions. The goal was to identify key drivers of profitability, understand customer purchasing behavior across segments, and analyze regional sales distributions.
 
 The project utilizes **Power BI** for interactive data visualization and **SQL** for data extraction and transformation logic.
+
  ---
  
 ## Key Performance Indicators (KPIs)
@@ -12,6 +13,7 @@ Based on the dashboard analysis:
 * **Total Profit:** $286.40K
 * **Total Quantity Sold:** 37,873 units
 * **Average Shipping Time:** 4 Days
+  
 ---
 
 ## Tools & Technologies
@@ -19,6 +21,7 @@ Based on the dashboard analysis:
 * **Data Source:** Amazon Sales Dataset (CSV)
 * **Data Querying:** SQL (PostgreSQL / MySQL)
 * **Data Cleaning:** Power Query (M Language)
+  
 ---
 
 ## Dataset Schema
@@ -28,6 +31,7 @@ The dataset contains the following attributes:
 * **Geography:** Country, City, State, Postal Code, Region
 * **Product Info:** Product ID, Category, Sub-Category, Product Name
 * **Metrics:** Sales, Quantity, Discount, Profit
+  
 ---
 
 ## SQL Queries for Analysis
@@ -92,8 +96,10 @@ Regional Leader: The West region leads in total sales, while the South region re
 Customer Segments: The Consumer segment is the largest contributor to both sales and profit (~47% of total profit).
 
 Shipping: Standard Class is the most preferred shipping mode by customers.
+
 ---
 
 ## Conclusion
 The analysis highlights that focusing on the 'Technology' category and the 'Consumer' segment in the 'West' region offers the highest growth potential.
+
 ---
